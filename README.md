@@ -1,12 +1,15 @@
 # pytorch-NN-classifier
-# PyTorch MNIST Classifier
+Simple Neural Network for MNIST Classification
 
-This project trains a simple neural network to classify handwritten digits from the MNIST dataset using PyTorch.
+This project demonstrates a basic implementation of a simple neural network using PyTorch to classify handwritten digits from the MNIST dataset.
+Project Structure
 
-## Getting Started
+    simple_nn.py (or similar file containing the code): Contains the Python code for the neural network model, data loading, training, and evaluation.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Requirements
 
-### Prerequisites
+    Python 3.6+
+    PyTorch
+    torchvision
 
-You will need Python and pip installed. To install the necessary libraries, run:
+You can install the required libraries using pip:
